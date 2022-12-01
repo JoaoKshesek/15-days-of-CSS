@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #101010;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.circle, .spinner {
+    width: 13rem;
+    height: 13rem;
+    border-radius: 50%;
+    background: transparent;
+}
+
+.circle {
+    box-shadow: 0 4px 10px rgba(1, 241, 209,0.1);
+    position: absolute;
+}
+
+.spinner {
+    box-shadow: 0 5px 0 rgb(1, 241, 209);
+    animation: spinner infinite 1s linear;
+}
+
+@keyframes spinner {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
