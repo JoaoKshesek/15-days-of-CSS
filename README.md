@@ -10,4 +10,4 @@
 
 [Day 05](https://github.com/JoaoKshesek/15-days-of-CSS/tree/main/Day05)
 
-[Day 06](https://github.com/JoaoKshesek/15-days-of-CSS/tree/main/Day05)
+[Day 06](https://github.com/JoaoKshesek/15-days-of-CSS/tree/main/Day06)
