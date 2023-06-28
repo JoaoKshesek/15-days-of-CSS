@@ -1,4 +1,4 @@
-# 15-days-of-CSS
+# 15 Days of CSS
 
 [Day 01](https://github.com/JoaoKshesek/15-days-of-CSS/tree/main/Day01)
 
